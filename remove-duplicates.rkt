@@ -17,6 +17,3 @@
 
 
 (provide remove-consecutive-duplicates)
-
-
-
